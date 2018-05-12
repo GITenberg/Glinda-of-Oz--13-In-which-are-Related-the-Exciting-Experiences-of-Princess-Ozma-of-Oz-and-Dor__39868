@@ -1,0 +1,63 @@
+_repo: Glinda-of-Oz--13-In-which-are-Related-the-Exciting-Experiences-of-Princess-Ozma-of-Oz-and-Dor__39868
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Neill, John R. (John Rea)
+    alias: Neill, John Rea
+    birthdate: 1877
+    deathdate: 1943
+    gutenberg_agent_id: '26521'
+    url: http://www.gutenberg.org/2009/agents/26521
+    wikipedia: http://en.wikipedia.org/wiki/John_R._Neill
+covers:
+- cover_type: archival
+  image_path: 39868-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Bancroft, Laura
+    - Akers, Floyd
+    - Baum, Lyman Frank
+    - Metcalf, Suzanne
+    - Fitzgerald, Hugh
+    - Van Dyne, Edith
+    - Fitzgerald, Capt. Hugh
+    - Cooke, John Estes
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: In Glinda of Oz, Dorothy and Ozma journey to a remote part of Oz to stop
+  a war between the Flatheads and the Skeezers. But the Flatheads and Skeezers have
+  a different idea. Soon Ozma and Dorothy are trapped in an amazing crystal-domed
+  city on an enchanted island. The watertight city submerges itself under the water
+  and only the Wizard and Glinda can save our heroes, but will they make it in time?
+gutenberg_issued: '2012-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39868'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gale, Dorothy (Fictitious character) -- Juvenile fiction'
+- !lcsh 'War stories'
+- !lcsh 'Tribes -- Juvenile fiction'
+- !lcsh 'Fantasy literature'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Good and evil -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Animals, Mythical -- Juvenile fiction'
+- !lcsh 'Oz (Imaginary place) -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Magic -- Juvenile fiction'
+- !lcsh 'Courage -- Juvenile fiction'
+- !lcsh 'Witches -- Juvenile fiction'
+title: "Glinda of Oz\r\nIn Which Are Related the Exciting Experiences of Princess\
+  \ Ozma of Oz, and Dorothy, in Their Hazardous Journey to the Home of the Flatheads,\
+  \ and to the Magic Isle of the Skeezers, and How They Were Rescued from Dire Peril\
+  \ by the Sorcery of Glinda the Good"
+url: http://www.gutenberg.org/ebooks/39868
